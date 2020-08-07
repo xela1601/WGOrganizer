@@ -42,6 +42,9 @@ Important under your profile data is your task-protocol.
 
 ## Das 'MERN' Konzept
 **M** - MongoDB (512MB Cluster)
+
 **E** - ExpressJS (Node Framework fügt features zu webserver runtime hinzu)
+
 **R** - ReactJs (Leider Geil!)
+
 **N** - Node (ist nicht wegzudenken..)
